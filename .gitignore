@@ -32,17 +32,6 @@ buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 
-# Gradle
-.gradle/
-build/
-
-# IDE - IntelliJ IDEA
-.idea/
-*.iws
-*.iml
-*.ipr
-out/
-
 # IDE - Eclipse
 .apt_generated
 .classpath
@@ -105,6 +94,3 @@ node_modules/
 # Database files
 *.db
 *.sqlite
-
-# Ignore Gemini/Antigravity artifacts
-.gemini/
