@@ -433,7 +433,7 @@ Sends email notifications for key events using Gmail SMTP.
 spring.mail.host=smtp.gmail.com
 spring.mail.port=587
 spring.mail.username=wiprovatsal@gmail.com
-spring.mail.password=gniyrkthqqvqaolx  # App password
+spring.mail.password= # App password
 spring.mail.properties.mail.smtp.auth=true
 spring.mail.properties.mail.smtp.starttls.enable=true
 ```
@@ -452,7 +452,7 @@ spring.mail.properties.mail.smtp.starttls.enable=true
 ```
 Subject: Welcome to PlayStore - Registration Successful!
 
-Hi John,
+Hi Khushi,
 
 Thank you for registering with PlayStore!
 
@@ -469,7 +469,7 @@ Vatsal Jaiswal
 ```
 Subject: PlayStore Account Activated!
 
-Hi John,
+Hi Kanchan,
 
 Great news! Your PlayStore account has been ACTIVATED.
 
